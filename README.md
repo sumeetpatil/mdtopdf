@@ -1,2 +1,2 @@
 # mdtopdf
-md to pdf
+git md files to a pdf
